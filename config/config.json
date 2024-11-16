@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "hayaearth",
+    "base_url": "/",
+    "favicon": "/images/imageye/favicon.png",
+    "logo": "/images/imageye/Haya.png",
+    "logo_width": "108",
+    "logo_height": "48",
+    "logo_text": "hayaearth"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "ملف الشركة",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "حيا الأرض هي مؤسسة سعودية مقرها في الرياض. تأسست هذه المؤسسة تحت قائدها الرئيس التنفيذي، الدكتور إبراهيم التركي. تعمل المؤسسة على تعزيز قضايا المياه والبيئة من خلال سلسلة من الأهداف الاستراتيجية والقيم",
+    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
